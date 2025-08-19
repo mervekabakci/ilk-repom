@@ -1,3 +1,3 @@
 #ilk repom
 
-Çok heyecanlıgım ilk github repomu oluşturdum.
+Bu repoya yenı dosyalar ekleyecegım
